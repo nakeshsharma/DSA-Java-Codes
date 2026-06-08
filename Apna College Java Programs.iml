@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/CH-34 Greedy Algorithm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CH-35 Binary trees part-1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CH-36 Binary trees part-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CH-37 Binary trees part-3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CH-40 Heaps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CH-41 Hashing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CH-42 Tries" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CH-43 Graph part-1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CH-44 Graph part-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CH-45 Graph part-3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CH-46 Graph part-4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CH-47 Graph part-5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch 23 Array lsit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch-15 2-D array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch-16 String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch-17 Bit Manipulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch-18 OOPS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch-19 Recurrsion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch-20 Divide and conquer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch-22 backtracking" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch-29 Linked list part-1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch-30 Linked list part-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch-31 Stacks part-1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch-32 Stacks part-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch-33 Queue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch-38 Binary Search Tree Part-1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch-10 Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch-11 Function" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch-13 ARRAY" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch-14 sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch-6 variables and data types" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch-7 Operators" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch-8 Conditional Statement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch-9 Loops" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
